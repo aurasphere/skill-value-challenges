@@ -33,3 +33,7 @@ The output is **r**.
 ## Link
 
 https://skillvalue.com/en/algoplay/test/101/Dudf1QiN26
+
+## Certificate/Score
+
+https://skillvalue.com/en/certificate/sjRdckLOELmZNaCd5qeuRUVPQ5qqGqWckQTRL7jkFfKEjg4AX8ClusBcsZ0i
