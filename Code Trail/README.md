@@ -4,7 +4,7 @@
 Advanced
 
 ## Time
-40 minutes
+60 minutes
 
 ## Problem
 Consider an MxN matrix that represents a mountain trail with MxN stops, having the following properties:
@@ -53,3 +53,4 @@ https://skillvalue.com/en/algoplay/test/90/QrBhizyGsz
 
 ## Certificate/Score
 
+https://skillvalue.com/en/certificate/bAw2c8wioX0oPDnFgrv5MwSoGhEahSqkBUHwnCfDvTZg5jpyAXp38aANqJIc
